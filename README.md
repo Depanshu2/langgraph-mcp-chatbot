@@ -6,7 +6,10 @@ A stateful AI chatbot built with:
 - **Groq ** – fast inference  
 - **MCP Tools**  
   - Local Maths MCP server  
-  - FastMCP expense server  (remote server ) deployed on fastmcp cloud 
+  - FastMCP expense server  (remote server ) deployed on fastmcp cloud
+- **Tools**
+  - DuckDuckGoSearchRun tool 
+  - get_stock_price tool
 - **SQLite** – persistent multi-thread chat  
 - **Streamlit** – interactive UI  
 ---
